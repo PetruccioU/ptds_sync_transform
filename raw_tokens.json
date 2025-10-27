@@ -75,11 +75,11 @@
     "colors": {
       "black": {
         "$type": "color",
-        "$value": "#000000"
+        "$value": "#fff"
       },
       "white": {
         "$type": "color",
-        "$value": "#ffffff"
+        "$value": "#000"
       },
       "gray": {
         "100": {
